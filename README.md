@@ -1,1 +1,1 @@
-# HumanPoseEstimation
+# AICTE-Internship
